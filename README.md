@@ -12,12 +12,6 @@ Confira a aplicação em funcionamento [aqui](https://to-do-list-angular-beryl.v
 - Remova tarefas existentes da lista.
 - Interface amigável e responsiva.
 
-## Pré-requisitos
-
-Certifique-se de ter o seguinte software instalado em sua máquina:
-
-- Node.js (recomendado versão >= 14.20)
-- Angular CLI (recomendado versão >= 14.20)
 
 ## Instalação
 
