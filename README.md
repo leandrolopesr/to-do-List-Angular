@@ -1,27 +1,27 @@
-# Frutas
+# To-Do List App - Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Este é um aplicativo simples de lista de tarefas desenvolvido em Angular. Ele permite que você adicione tarefas à lista e as remova conforme necessário.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Funcionalidades
 
-## Build
+- Adicione novas tarefas à lista.
+- Remova tarefas existentes da lista.
+- Interface amigável e responsiva.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Pré-requisitos
 
-## Running unit tests
+Certifique-se de ter o seguinte software instalado em sua máquina:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Node.js (recomendado versão >= 14.20)
+- Angular CLI (recomendado versão >= 14.20)
 
-## Running end-to-end tests
+## Instalação
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone este repositório para o seu diretório local:
 
-## Further help
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
