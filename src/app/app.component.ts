@@ -9,7 +9,7 @@ export class AppComponent {
 
   title = 'Lista de Tarefas';
 
-  public tarefa = "";
+  public tarefa = " ";
   public items = [""];
 
 
