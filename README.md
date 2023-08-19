@@ -12,6 +12,10 @@ Confira a aplicação em funcionamento [aqui](https://to-do-list-angular-beryl.v
 - Remova tarefas existentes da lista.
 - Interface amigável e responsiva.
 
+## Como usar
+
+1. Digite o nome de uma tarefa na caixa de texto e clique no botão "Adicionar" para adicionar a tarefa à lista.
+2. Cada tarefa será exibida na tabela, juntamente com um botão "Remover" para excluí-la.
 
 ## Instalação
 
