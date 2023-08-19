@@ -1,4 +1,4 @@
-# To-Do List App - Angular
+# Lista de Tarefas App - Angular
 
 Este é um aplicativo simples de lista de tarefas desenvolvido em Angular. Ele permite que você adicione tarefas à lista e as remova conforme necessário.
 
